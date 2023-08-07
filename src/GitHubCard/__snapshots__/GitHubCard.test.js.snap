@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="SamanthaMarie.png"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Samantha Marie
+      </div>
+      <p
+        className="card-text"
+      >
+        A 30 year old Los Angeles native living in Las Vegas who's learning to write code.
+      </p>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  id="container"
+>
+  <div
+    id="start"
+  >
+    Start Quiz!
+  </div>
+  <div
+    id="quiz"
+    style="display: none"
+  >
+    <div
+      id="question"
+    />
+    <div
+      id="qImg"
+    />
+    <div
+      id="choices"
+    >
+      <div
+        class="choice"
+        id="A"
+        onclick="checkAnswer('A')"
+      />
+      <div
+        class="choice"
+        id="B"
+        onclick="checkAnswer('B')"
+      />
+      <div
+        class="choice"
+        id="C"
+        onclick="checkAnswer('C')"
+      />
+      <div
+        class="choice"
+        id="D"
+        onclick="checkAnswer('D')"
+      />
+    </div>
+    <div
+      id="timer"
+    >
+      <div
+        id="counter"
+      />
+      <div
+        id="btimeGauge"
+      />
+      <div
+        id="timeGauge"
+      />
+    </div>
+  </div>
+</div>
+`;
